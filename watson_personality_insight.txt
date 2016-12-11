@@ -1,0 +1,19 @@
+{
+  "url": "https://gateway.watsonplatform.net/personality-insights/api",
+  "password": "k1FZhj6b8QVA",
+  "username": "f4130337-258d-41b0-827e-ec5aa9a0c82f"
+}
+
+
+{
+  "url": "https://stream.watsonplatform.net/speech-to-text/api",
+  "password": "UOSTJcap7BCJ",
+  "username": "2d508536-a693-4c54-bfbd-57eb1d7c618f"
+}
+
+
+{
+  "url": "https://stream.watsonplatform.net/text-to-speech/api",
+  "password": "GmtpUK8oiU3M",
+  "username": "df93b099-fc2a-49b5-8507-8e95785e851d"
+}

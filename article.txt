@@ -1,0 +1,7 @@
+A silent revolution, if not disruptive, has occurred in the field of Data Science and Cognitive Analytics. On Aug 2016, Columbus Collaboratory, an advanced analytics and cybersecurity company, released CognizeR ,an open-source R extension that brings the power of IBM's Watson directly to data scientists so they can tap into cognitive services without leaving their native development environment. Previously, data scientists would need to exit R and code the calls to the Cognitive APIs in another language, such as Java or Python, to integrate these services — but standing today, CognizeR has shortened this journey by providing quick and easy access.
+
+Now comes the major hurdle. CognizeR is still in its beta mode and is not available in the CRAN archive. That means you cannot install the cognizer package using the simple call in R Studio:
+
+install.packages("cognizer");  
+
+On top of that, the GitHub repository for CognizeR has made just made major commits on Nov 2016 with the actual working code.
